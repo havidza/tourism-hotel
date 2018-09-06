@@ -1,2 +1,9 @@
-# tourism-hotel
-This is my first simple website about tourism and hotel. Include admin panel. Already equipped with the admin panel in it. Enjoy
+# Tourism and Hotel
+This is my first simple website about tourism and hotel. Already equipped with the admin panel in it. Enjoy :D
+
+# Dibuat Menggunakan 
+* HTML
+* CSS
+* Javascript
+* jQuery
+* PHP & MySQL
